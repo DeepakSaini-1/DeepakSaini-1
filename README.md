@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Saini</h1>
 <h3 align="center">A passionate Cloud Engeneer from India</h3>
 
-<img width="400px" src="https://i.gifer.com/En1y.gif" alt="coding">
+<img align="right" width="400px" src="https://github.com/DeepakSaini-1/DeepakSaini-1/blob/main/En1y.gif?raw=true" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksaini-1&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksaini-1" /> </p>
 
