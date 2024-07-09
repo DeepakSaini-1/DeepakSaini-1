@@ -1,4 +1,4 @@
-<img style="width: 95vw;" src="https://t4.ftcdn.net/jpg/04/79/72/95/240_F_479729552_fvosxXnahfU9M6oUvY9omu6cxHkPy52d.jpg" alt="Logo">
+<img style="width: 90vw;" src="https://t4.ftcdn.net/jpg/04/79/72/95/240_F_479729552_fvosxXnahfU9M6oUvY9omu6cxHkPy52d.jpg" alt="Logo">
 
 <h1 align="center">Hi 👋, I'm Deepak Saini</h1>
 <h3 align="center">A passionate Cloud Engeneer from India</h3>
